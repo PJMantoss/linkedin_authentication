@@ -3,7 +3,7 @@ const express = require('express');
 var router = express.Router();
 
 router.get('/', function (req, res) {
-  res.render('pages/index.ejs'); // load the index.ejs file
+  res.render('pages/home.ejs'); // load the index.ejs file
 });
 
 router.get('/profile', isLoggedIn, function (req, res) {
