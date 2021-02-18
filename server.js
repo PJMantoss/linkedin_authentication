@@ -26,9 +26,9 @@ passport.deserializeUser(function (obj, cb) {
 });
 
 passport.use(new LinkedInStrategy({
-  clientID: config.linkedinAuth.clientID,
-  clientSecret: config.linkedinAuth.clientSecret,
-  callbackURL: config.linkedinAuth.callbackURL,
+  clientID: config.linkedInAuth.clientID,
+  clientSecret: config.linkedInAuth.clientSecret,
+  callbackURL: config.linkedInAuth.callbackURL,
   scope: ['r_emailaddress', 'r_liteprofile'],
 }, function (token, tokenSecret, profile, done) {
   return done(null, profile);
