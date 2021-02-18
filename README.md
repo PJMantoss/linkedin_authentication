@@ -1,6 +1,6 @@
 # LinkedIn Authentication Plugin with NodeJS and Passport
 
-This "LinkedIn Login" functionality can be added to any web app. The project started with a Client Registration (OAuth Client) on LinkedIn Developer site, then a UI where a user can log in was built (Authorization endpoint), 
+This "LinkedIn Login" functionality can be added to any web app. The project started with a Client Registration (OAuth Client) on LinkedIn Developer site, then a UI where a user can log in was built (Authorization endpoint), then the code for the API call was written (token endpoint/back channel call),
 
 ## Tech Overview
 
