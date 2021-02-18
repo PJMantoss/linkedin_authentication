@@ -4,3 +4,8 @@ This Project demonstrates how to add "LinkedIn Login" functionality to any web a
 
 ## Tech Overview
 
+- Node/Express
+- EJS (Embedded JavaScript Templating)
+- Passport (Authentication middleware for Node.js)
+- MaterializeCSS
+- Font Awesome
