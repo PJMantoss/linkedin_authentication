@@ -1,9 +1,11 @@
 # LinkedIn Authentication Plugin with NodeJS and Passport
 
-This Project demonstrates how to add "LinkedIn Login" functionality to any web app.
+This "LinkedIn Login" functionality can be added to any web app.
 
 ## Tech Overview
 
+- LinkedIn API
+- LinkedIn OAuth Access Token
 - Node/Express
 - EJS (Embedded JavaScript Templating)
 - Passport (Authentication middleware for Node.js)
