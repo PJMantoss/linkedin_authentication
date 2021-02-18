@@ -19,4 +19,7 @@ This Project demonstrates how to add "LinkedIn Login" functionality to any web a
 - passport-linkedin-oauth2
 - ejs
 
-## 
+## How To Run The Plugin on Your Machine
+
+1. Clone the repo (git clone linkedin_authentication)
+2. CD into the Directory (cd linkedin_authentication)
