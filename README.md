@@ -24,7 +24,7 @@ This "LinkedIn Login" functionality can be added to any web app. The project sta
 ## How To Run The Plugin on Your Machine
 
 1. Clone the repo (git clone https://github.com/PJMantoss/linkedin_authentication.git)
-2. CD into the Directory (cd linkedin_authentication)
+2. Change Directory (cd linkedin_authentication)
 3. Run **npm install** (to install dependencies)
 4. Run **npm start**
 5. Open this link http://127.0.0.1:3000/
